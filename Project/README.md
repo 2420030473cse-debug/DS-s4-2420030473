@@ -47,3 +47,17 @@ Student_Performance_Prediction/
     │   └── style.css
     └── js/
         └── script.js
+### Development Updates
+## 1 – Project Setup and Dataset
+# Tasks Completed
+Created the project folder.
+Created the basic project structure.
+Added the student performance dataset.
+Added the initial README file.
+Created Git repository.
+# Git Commits
+Initial project setup
+Add student performance dataset
+
+# Outcome
+The project structure and dataset were successfully prepared for Machine Learning development.
