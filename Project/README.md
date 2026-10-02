@@ -1,4 +1,4 @@
-### Student Performance Prediction and Academic Analytics System
+# Student Performance Prediction and Academic Analytics System
 ## 1. Project Overview
 
 The Student Performance Prediction and Academic Analytics System is a Data Science and Machine Learning web application that predicts a student's final academic score based on different academic and personal factors.
@@ -47,17 +47,17 @@ Student_Performance_Prediction/
     │   └── style.css
     └── js/
         └── script.js
-### Development Updates
+# Development Updates
 ## 1 – Project Setup and Dataset
-# Tasks Completed
+### Tasks Completed
 Created the project folder.
 Created the basic project structure.
 Added the student performance dataset.
 Added the initial README file.
 Created Git repository.
-# Git Commits
+### Git Commits
 Initial project setup
 Add student performance dataset
 
-# Outcome
+### Outcome
 The project structure and dataset were successfully prepared for Machine Learning development.
